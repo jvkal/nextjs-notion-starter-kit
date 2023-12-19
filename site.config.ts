@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'aff7b17f7ef843b58f840ecd8dd75f8b',
+  rootNotionPageId: 'aff7b17f7ef843b58f840ecd8dd75f8b?v=f1e1afe9f09744a5be484935ce69fd6f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jack Xu 的博客',
-  domain: 'https://everlasting-conga-692.notion.site/aff7b17f7ef843b58f840ecd8dd75f8b',
+  domain: 'https://everlasting-conga-692.notion.site/aff7b17f7ef843b58f840ecd8dd75f8b?v=f1e1afe9f09744a5be484935ce69fd6f',
   author: 'Jack Xu',
 
   // open graph metadata (optional)
